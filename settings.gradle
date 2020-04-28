@@ -1,0 +1,3 @@
+rootProject.name='SkillboxRecyclerView'
+include ':app', ':lesson1', ':lesson2'
+include ':app2'

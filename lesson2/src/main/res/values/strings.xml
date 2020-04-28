@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">AndroidTutorialRecyclerViewAdv</string>
+	<string name="title_placeholder">Title</string>
+    <string name="name_icon">Name Icon</string>
+</resources>
